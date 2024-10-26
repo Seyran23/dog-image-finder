@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/dog-image-finder/static/css/main.073c9b0a.css",
+    "main.js": "/dog-image-finder/static/js/main.a78dec94.js",
+    "static/js/787.060d4679.chunk.js": "/dog-image-finder/static/js/787.060d4679.chunk.js",
+    "static/media/PoppinsBold.otf": "/dog-image-finder/static/media/PoppinsBold.b5c5cbad4c3e1e9f4fec.otf",
+    "static/media/PoppinsRegular.otf": "/dog-image-finder/static/media/PoppinsRegular.1421a94e04ced16b1ffc.otf",
+    "index.html": "/dog-image-finder/index.html",
+    "main.073c9b0a.css.map": "/dog-image-finder/static/css/main.073c9b0a.css.map",
+    "main.a78dec94.js.map": "/dog-image-finder/static/js/main.a78dec94.js.map",
+    "787.060d4679.chunk.js.map": "/dog-image-finder/static/js/787.060d4679.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.a78dec94.js"
+  ]
+}
